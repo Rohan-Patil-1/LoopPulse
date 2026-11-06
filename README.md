@@ -34,8 +34,3 @@ Role-based views tailored to different users:
 - pip package manager
 - Your data file: `loop_pulse_features2.csv`
 
-## Installation
-
-1. **Clone or download this repository**
-   ```bash
-   git clone https://github.com/sabalalani/LoopPulse.git
