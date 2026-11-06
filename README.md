@@ -1,6 +1,6 @@
    # Loop Pulse — Economic Safety Intelligence Platform
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url.streamlit.app](https://looppulse-y5wc4afuhll.streamlit.app/Economic_Impact_Score))
 
 Loop Pulse is an economic safety intelligence platform that connects public safety data with economic vitality in Chicago's Loop. The platform quantifies the economic ripple effects of safety issues and identifies where targeted interventions would generate the highest return on investment.
 
