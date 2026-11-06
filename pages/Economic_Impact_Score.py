@@ -1528,7 +1528,7 @@ with tab5:
     unsafe_allow_html=True)
         valid_blocks = filtered_top_blocks.dropna(subset=["lat", "lon"])
         if len(valid_blocks) > 0:
-            fig_map = px.scatter_mapbox(
+            fig_map = px.scatter_map(
                 valid_blocks, lat="lat", lon="lon",
                 size="avg_crimes_per_biz", size_max=30,
                 color="avg_bhs",
@@ -1542,7 +1542,7 @@ with tab5:
                     "lat": False, 
                     "lon": False
                 },
-                mapbox_style="carto-darkmatter",
+                map_style="carto-darkmatter",
                 zoom=14,
                 center={"lat": valid_blocks["lat"].mean(), "lon": valid_blocks["lon"].mean()},
             )
